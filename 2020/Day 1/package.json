@@ -1,0 +1,12 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "Day 1 - Advent of Code",
+  "type": "module",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
