@@ -1,6 +1,5 @@
 import events from 'events';
 import fs from 'fs';
-import { cwd } from 'process';
 import * as readline from 'readline';
 
 // const fileName = `${__dirname}\\test.txt`;
